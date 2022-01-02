@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# Kevin Kozikowski
 
-You can use the [editor on GitHub](https://github.com/kkozikowski4269/kkozikowski4269.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Projects
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Python RPG
+A short python console-based game in which the player must level up while navigating through a dungeon to the final boss. The player fights enemies in turn-based RPG style battles, collecting items to help the player progress through the game. The game allows the player to save the state of the game as well as save/load multiple other player files. 
 
-### Markdown
+### Calorie Tracker
+JavaFX GUI application following MVC structure. The application allows the user to view a graph of their meal data over time as well as store data locally and add, update, and delete that data through use of a DAO.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Snake Clone
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kkozikowski4269/kkozikowski4269.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Space Invaders Clone (WIP)
+A space invaders type game using JavaFX in which the player fights waves of enemies to progress through levels. 

@@ -10,6 +10,8 @@ A short python console-based game in which the player must level up while naviga
 ### Calorie Tracker
 JavaFX GUI application following MVC structure. The application allows the user to view a graph of their meal data over time as well as store data locally and add, update, and delete that data through use of a DAO.
 
+<img src="calorie_tracker_add_meal.gif" width=300 height=250>  <img src="calorie_tracker_update_meal.gif" width=300 height=250>  <img src="calorie_tracker_chart.gif" width=300 height=250>
+
 ### Snake Clone
 
 ### Space Invaders Clone (WIP)

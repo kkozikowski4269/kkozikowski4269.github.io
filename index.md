@@ -13,6 +13,11 @@ JavaFX GUI application following MVC structure. The application allows the user 
 <img src="calorie_tracker_add_meal.gif" width=300 height=250>  <img src="calorie_tracker_update_meal.gif" width=300 height=250>  <img src="calorie_tracker_chart.gif" width=300 height=250>
 
 ### Snake Clone
+A snake game type clone with additional settings for the player to choose.
+
+<img src="snake_demo.gif" >
 
 ### Space Invaders Clone (WIP)
 A space invaders type game using JavaFX in which the player fights waves of enemies to progress through levels. 
+
+<img src="space_shooter_intro.gif" width=300 height=300>  <img src="space_shooter_game_play.gif" width=535 height=300>

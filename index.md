@@ -10,7 +10,7 @@ A python console-based game in which the player must level up while navigating t
 <img src="python_rpg_start.gif" width=300 height=250> <img src="python_rpg_battle.gif" width=300 height=250>  <img src="python_rpg_levelup.gif" width=300 height=250>
 </div>
 
-<hr><br><br>
+<br><br><hr><br><br>
 
 ### Calorie Tracker
 JavaFX GUI application following MVC structure. The application allows the user to view a graph of their meal data over time as well as store data locally and add, update, and delete that data through use of a DAO.
@@ -18,7 +18,7 @@ JavaFX GUI application following MVC structure. The application allows the user 
 <img src="calorie_tracker_add_meal.gif" width=300 height=250>  <img src="calorie_tracker_update_meal.gif" width=300 height=250>  <img src="calorie_tracker_chart.gif" width=300 height=250>
 </div>
 
-<hr><br><br>
+<br><br><hr><br><br>
 
 ### Snake Clone
 A small snake game type clone with additional settings to become familiarized with JavaFX and event handling.
@@ -26,7 +26,7 @@ A small snake game type clone with additional settings to become familiarized wi
 <img src="snake_demo.gif">
 </div>
 
-<hr><br><br>
+<br><br><hr><br><br>
 
 ### Space Invaders Clone (WIP)
 A space invaders type game using JavaFX in which the player fights waves of enemies to progress through levels. 

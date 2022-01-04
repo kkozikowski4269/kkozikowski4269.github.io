@@ -18,7 +18,7 @@ JavaFX GUI application following MVC structure. The application allows the user 
 <img src="calorie_tracker_add_meal.gif" width=300 height=250>  <img src="calorie_tracker_update_meal.gif" width=300 height=250>  <img src="calorie_tracker_chart.gif" width=300 height=250>
 </div>
 
-<br><br><hr><br><br>
+<br><hr> <br><br>
 
 ### Snake Clone
 A small snake game type clone with additional settings to become familiarized with JavaFX and event handling.

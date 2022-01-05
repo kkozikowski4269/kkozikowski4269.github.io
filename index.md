@@ -10,8 +10,8 @@ A python console-based game in which the player must level up while navigating t
 <img src="python_rpg_start.gif" width=300 height=250> <img src="python_rpg_battle.gif" width=300 height=250>  <img src="python_rpg_levelup.gif" width=300 height=250>
 </div>
 <p>Credit:</p>
-  <p>Knight enemy image - https://www.asciiart.eu/people/occupations/knights by [unknown artist]</p>
-  <p>Knight player image - https://www.asciiart.eu/people/occupations/knights by Joan G. Stark (jgs)</p>
+  <p>Knight enemy image - by <a href="https://www.asciiart.eu/people/occupations/knights">[unknown artist]</a></p>
+  <p>Knight player image - by <a href="https://www.asciiart.eu/people/occupations/knights"> Joan G. Stark (jgs)</a></p>
 
 <hr><br><br>
 

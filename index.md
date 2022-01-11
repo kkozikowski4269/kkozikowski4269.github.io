@@ -4,7 +4,7 @@
 <br><br>
 
 ### Todo List Web App
-To do list web application that allows the user to create, read, update, and delete items on multiple lists. The front-end uses html, css, and Javascript. The back-end uses Node.js (using express and ejs) and mongoDB (using mongoose) for persistent storage.
+<p>To do list web application that allows the user to create, read, update, and delete items on multiple lists. The front-end uses html, css, and Javascript. The back-end uses Node.js (using express and ejs) and mongoDB (using mongoose) for persistent storage.</p>
 <img src="ListWebApp.gif" width=1000 height=500>
 
 

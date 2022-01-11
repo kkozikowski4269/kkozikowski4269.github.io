@@ -3,6 +3,10 @@
 ## Projects
 <br><br>
 
+### Todo List Web App
+To do list web application that allows the user to create, read, update, and delete items on multiple lists. The front-end uses html, css, and Javascript. The back-end uses Node.js (using express and ejs) and mongoDB (using mongoose) for persistent storage.
+<img src="ListWebApp.gif" width=1000 height=500>
+
 
 ### Python RPG
 A python console-based game in which the player must level up while navigating through a dungeon to the final boss. The player fights enemies in turn-based RPG style battles, collecting items to help the player progress through the game. The game allows the player to save the state of the game as well as save/load multiple other player files. 
